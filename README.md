@@ -124,6 +124,3 @@ Through this project, I practiced:
 
 **Adari Kumanika Sushma**
 
-B.Tech – Electrical & Electronics Engineering
-
-GitHub: [sushmaadari27](https://github.com/sushmaadari27)

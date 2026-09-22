@@ -100,11 +100,9 @@ OPEN_WEATHER_API_KEY=YOUR_API_KEY
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
-
 ### Weather Screen
 
-*Add WeatherApp screenshot here.*
+![WeatherApp Screenshot](weatherapp-screenshot.jpg)
 
 ## 🎯 Learning Outcomes
 

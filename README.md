@@ -6,9 +6,6 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
 
 * 📍 Get weather information using the device's current location
 * 🌡️ Display current temperature in Celsius
-* ☁️ Display weather conditions
-* 💧 Show humidity information
-* 🌬️ Display wind speed
 * 🔄 Fetch real-time weather data from the OpenWeather API
 * 🎨 Modern UI built with Jetpack Compose
 * ⚠️ User-friendly error handling
